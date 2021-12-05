@@ -3,8 +3,9 @@
 For this game you will need both pip and pygame installed.
 Found my commands here https://www.pygame.org/docs/
 Used https://www.youtube.com/watch?v=Q-__8Xw9KTM and https://www.youtube.com/watch?app=desktop&v=sDL7P2Jhlh8 this video for most
-of the structure of the game because I've never used pygame before so I was lost
-I am sorry to say that a lot of the code comes from me following along with the video, I will go into further detail in the video.
+of the structure of the game because I've never used pygame before so I was lost.  However I did really enjoying learning as 
+I've always wanted to make a game and I now plan on creating something by myself. 
+I am sorry to say that a lot of the code comes from me following along with the video, but I tried my best to make it my own when I could.
 I also ended up using his assets as I was not able to find any small enough sprites that had transparent backgrounds"""
 import pygame
 import os
